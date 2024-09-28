@@ -5,14 +5,11 @@ class Config(object):
     OWNER_ID = "6861906489"
     sudo_users = ["6861906489"]
     GROUP_ID = "-1002337505439"
-    TOKEN = "6600186454:AAFLZH3zYUM3V1q_a7RkQ6nnGlHiz5hRxoU"
+    TOKEN = "7624228426:AAEC_qtuQoQh1KDr7xhl6uDZqk3f_2jHMk4"
     mongo_url = "mongodb+srv://Epic2:w85NP8dEHmQxA5s7@cluster0.tttvsf9.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://envs.sh/SqR.jpg"]
-    UPDATE_CHAT = "FLEX_BOTS_NEWS"
-    BOT_USERNAME = "Grabbing_Your_Waifu_Bot"
-    CHARA_CHANNEL_ID = "-1002009998662"
+    BOT_USERNAME = "make_your_waifu_bot"   
     api_id = "24331006"
-    api_hash = "f6cadf28523943f525e706e6ace8a250"
+    api_hash = "783a6c919b56b9dca14a16bc835fea26"
 
     
 class Production(Config):
